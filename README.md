@@ -22,6 +22,10 @@ To find out how good you are in your
       - Fairly basic, 3 input boxes should be fine
       - Take input, get the operator and operands 
       - Display results 
+- Create an API (Basic One) (PHP or Node preferred)
+- On button click call the API and save the answer of your calculations into database
+
+
 - Upload and submit to github
 - A confirmation email to hassanalvi11@gmail.com will be helpful
 
